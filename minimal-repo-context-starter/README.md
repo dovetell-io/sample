@@ -3,6 +3,8 @@
 Use this starter when a repo needs enough context for an AI-assisted work
 session to resume cleanly, but not a full governance system.
 
+Docs: [Minimal Repo Context Starter](https://docs.dovetell.io/templates/free-samples/)
+
 It creates a small context loop:
 
 ```text

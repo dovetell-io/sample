@@ -6,6 +6,8 @@ This repo contains public-safe snapshots of Dovetell starter patterns. Use it
 when you want to inspect, fork, or adapt a sample without starting from a docs
 page.
 
+Docs: [docs.dovetell.io/templates/free-samples](https://docs.dovetell.io/templates/free-samples/)
+
 ## Samples
 
 | Sample | Start here | Purpose |
