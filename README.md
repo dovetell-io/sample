@@ -12,16 +12,15 @@ page.
 | --- | --- | --- |
 | Minimal Repo Context Starter | [`minimal-repo-context-starter/`](minimal-repo-context-starter/) | Add a tiny repo-owned context loop for AI-assisted work. |
 
-## Source Boundary
+## Release Boundary
 
-This repo is a public release surface, not the canonical source workshop.
+This repo contains reviewed, public-safe sample snapshots.
 
-- Source assets and package candidates live in `dovetell-io/dovetell-assets`.
-- Public docs and usage guidance live in `dovetell-io/docs`.
-- This repo contains reviewed, public-safe sample snapshots.
+It is meant for cloning, forking, inspection, and lightweight adaptation. It is
+not a place for private strategy, customer details, credentials, internal launch
+notes, or unreconciled roadmap material.
 
-Do not add private strategy, customer details, credentials, internal launch
-notes, or unreconciled roadmap material here.
+See [`REVISIONS.md`](REVISIONS.md) for public sample revisions.
 
 ## How To Use
 
